@@ -15,4 +15,5 @@ body .container {
 body .container .header {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }/*# sourceMappingURL=style.css.map */
