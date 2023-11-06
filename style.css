@@ -11,4 +11,8 @@ body {
 body .container {
   position: inherit;
   padding: 0 160px;
+}
+body .container .header {
+  display: flex;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */

@@ -11,6 +11,10 @@ body{
     .container{
         position: inherit;
         padding: 0 160px;
-        
+
+        .header{
+            display: flex;
+            align-items: center;
+        }
     }
 }
